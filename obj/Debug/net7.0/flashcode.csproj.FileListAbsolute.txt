@@ -1,0 +1,14 @@
+C:\Users\Kamoncik\OneDrive\Masaüstü\flashcode\flashcode\flashcode\bin\Debug\net7.0\flashcode.exe
+C:\Users\Kamoncik\OneDrive\Masaüstü\flashcode\flashcode\flashcode\bin\Debug\net7.0\flashcode.deps.json
+C:\Users\Kamoncik\OneDrive\Masaüstü\flashcode\flashcode\flashcode\bin\Debug\net7.0\flashcode.runtimeconfig.json
+C:\Users\Kamoncik\OneDrive\Masaüstü\flashcode\flashcode\flashcode\bin\Debug\net7.0\flashcode.dll
+C:\Users\Kamoncik\OneDrive\Masaüstü\flashcode\flashcode\flashcode\bin\Debug\net7.0\flashcode.pdb
+C:\Users\Kamoncik\OneDrive\Masaüstü\flashcode\flashcode\flashcode\obj\Debug\net7.0\flashcode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamoncik\OneDrive\Masaüstü\flashcode\flashcode\flashcode\obj\Debug\net7.0\flashcode.AssemblyInfoInputs.cache
+C:\Users\Kamoncik\OneDrive\Masaüstü\flashcode\flashcode\flashcode\obj\Debug\net7.0\flashcode.AssemblyInfo.cs
+C:\Users\Kamoncik\OneDrive\Masaüstü\flashcode\flashcode\flashcode\obj\Debug\net7.0\flashcode.csproj.CoreCompileInputs.cache
+C:\Users\Kamoncik\OneDrive\Masaüstü\flashcode\flashcode\flashcode\obj\Debug\net7.0\flashcode.dll
+C:\Users\Kamoncik\OneDrive\Masaüstü\flashcode\flashcode\flashcode\obj\Debug\net7.0\refint\flashcode.dll
+C:\Users\Kamoncik\OneDrive\Masaüstü\flashcode\flashcode\flashcode\obj\Debug\net7.0\flashcode.pdb
+C:\Users\Kamoncik\OneDrive\Masaüstü\flashcode\flashcode\flashcode\obj\Debug\net7.0\flashcode.genruntimeconfig.cache
+C:\Users\Kamoncik\OneDrive\Masaüstü\flashcode\flashcode\flashcode\obj\Debug\net7.0\ref\flashcode.dll
